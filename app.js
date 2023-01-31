@@ -5,7 +5,6 @@ const connectDB = require('./db/connect')
 require('dotenv').config();
 
 
-
 //middleware
 app.use(express.json());
 
